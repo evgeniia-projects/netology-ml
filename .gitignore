@@ -1,0 +1,9 @@
+# Служебное от Jupyter и Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Служебное от Windows и редакторов
+Thumbs.db
+desktop.ini
+.vscode/
