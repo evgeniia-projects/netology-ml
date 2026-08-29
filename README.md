@@ -12,6 +12,7 @@
 |---|---|---|
 | 4. Временные ряды | Временные ряды, общая теория | [04-timeseries/01-general-theory](04-timeseries/01-general-theory) |
 | 4. Временные ряды | Элементарные методы анализа временных рядов | [04-timeseries/02-elementary-methods](04-timeseries/02-elementary-methods) |
+| 4. Временные ряды | Модели ARMA | [04-timeseries/03-arma-models](04-timeseries/03-arma-models) |
 
 ## Как устроены папки
 
