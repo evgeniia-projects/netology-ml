@@ -15,6 +15,7 @@
 | 4. Временные ряды | Модели ARMA | [04-timeseries/03-arma-models](04-timeseries/03-arma-models) |
 | 4. Временные ряды | Модели авторегрессии условной гетероскедантичности | [04-timeseries/04-garch-models](04-timeseries/04-garch-models) |
 | 4. Временные ряды | Сингулярный спектральный анализ | [04-timeseries/05-ssa](04-timeseries/05-ssa) |
+| 4. Временные ряды | Случайные марковские процессы | [04-timeseries/06-markov](04-timeseries/06-markov) |
 
 ## Как устроены папки
 
