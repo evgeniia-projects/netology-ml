@@ -7,3 +7,8 @@ __pycache__/
 Thumbs.db
 desktop.ini
 .vscode/
+
+# Данные контеста Kaggle Digit Recognizer: правила не разрешают их распространять
+train.csv
+test.csv
+submission.csv
